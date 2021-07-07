@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.gradle",
+    "\\android",
+    "\\images",
+    "\\images\\furniture",
+    "\\ios",
+    "\\lib",
+    "\\lib\\components"
+  ],
+  "SelectedNode": "\\lib\\components\\cart_products.dart",
+  "PreviewInSolutionExplorer": false
+}

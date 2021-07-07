@@ -2,6 +2,7 @@
 
 A new Flutter application.
 
+Developed a simple static Flutter application which is about house furniture just like ecommerce application.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
